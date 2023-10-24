@@ -1,0 +1,103 @@
+#save_button{
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
+    background-color: aquamarine;
+    margin-top: 20px;
+    align-items: center;
+    
+}
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+background-color: pink;
+    align-items: center;
+}
+#dateEntery{
+    margin-top: 20px;
+
+}
+h2{
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#task-container {
+    margin: 20px 0;
+}
+
+#task-input {
+    width: 70%;
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+}
+
+#save-button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#save-button:hover {
+    background-color: #0056b3;
+}
+
+#task-list {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+span {
+    font-size: 0.8em;
+    color: #777;
+    margin-left: 10px;
+} */
